@@ -22,6 +22,7 @@ Then start by.
 
 ```shell
 npm start
+```
 
 Thank You!
-```
+
